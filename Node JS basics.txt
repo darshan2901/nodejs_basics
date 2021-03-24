@@ -1,0 +1,11 @@
+
+Node JS Basic syntex
+
+console.org - for printing value in inspect section
+
+
+for creating server
+
+require('http')
+createServer(function(res,req){
+}).listen
